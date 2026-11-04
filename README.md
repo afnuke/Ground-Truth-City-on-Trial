@@ -1,6 +1,6 @@
 # Ground Truth: City on Trial — Volume Two
 
-**▶ The Volume Two pitch (63 seconds)** — pitch video posting copy — to be added.
+**▶ [The Volume Two pitch (62 seconds)](city-on-trial-pitch-v2-cover.mp4)** — the case for Volume Two, in one minute.
 
 Volume One put companies and institutions on the stand — with their own filings. Volume Two puts the **cities** there.
 
