@@ -1,10 +1,10 @@
 # Ground Truth: City on Trial — Volume Two
 
-**▶ [The Volume Two pitch (62 seconds)](city-on-trial-pitch-v2-cover.mp4)** — the case for Volume Two, in one minute.
+**▶ [The Volume Two pitch (62 seconds)](city-on-trial-pitch-v2-cover.mp4)** — the case for Volume Two, in 62 seconds.
 
-Volume One put companies and institutions on the stand — with their own filings. Volume Two puts the **cities** there.
+Volume One put companies and institutions on the stand — with their own filings. Volume Two puts the cities on the stand — with theirs.
 
-Every city publishes an audited Annual Comprehensive Financial Report each year. Hundreds of pages. Almost nobody reads it. **City on Trial reads it — and hands you the exhibits.**
+Every city publishes an audited Annual Comprehensive Financial Report each year. Hundreds of pages. Thousands of numbers. Nobody reads them. Volume Two reads them all — and puts every city on trial, in public, with its own book as the evidence.
 
 ## The case file
 
@@ -35,6 +35,8 @@ The app presents the record. It does not render a verdict — that's the jury's 
 ## The South Carolina docket
 
 Greenville is the first case, not the only one. All **41 South Carolina municipalities over 10,000 people** have been scoped for the docket. On November 4, 2026, records requests were filed with every city on the docket that doesn't publish its payroll and accepts requests by email — **22 requests outstanding**, with determinations due **November 18–19, 2026**. More cases open as each city's book is verified figure by figure, the same standard Case 001 was held to.
+
+**[The records requests — the record](FOIA-RECORD.md)** — how the 41 cities were asked, what Anderson alone requires, and where the finding was sent.
 
 ## The series
 
