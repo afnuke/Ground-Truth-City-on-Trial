@@ -1,10 +1,10 @@
 # Ground Truth: City on Trial — Volume Two
 
-**▶ [The Volume Two pitch (62 seconds)](city-on-trial-pitch-v2-cover.mp4)** — the case for Volume Two, in 62 seconds.
+**▶ [The Volume Two pitch (62 seconds)](city-on-trial-pitch-v2-cover.mp4)** — the case for Volume Two, in one minute.
 
-Volume One put companies and institutions on the stand — with their own filings. Volume Two puts the cities on the stand — with theirs.
+Volume One put companies and institutions on the stand — with their own filings. Volume Two puts the **cities** there.
 
-Every city publishes an audited Annual Comprehensive Financial Report each year. Hundreds of pages. Thousands of numbers. Nobody reads them. Volume Two reads them all — and puts every city on trial, in public, with its own book as the evidence.
+Every city publishes an audited Annual Comprehensive Financial Report each year. Hundreds of pages. Almost nobody reads it. **City on Trial reads it — and hands you the exhibits.**
 
 ## The case file
 
