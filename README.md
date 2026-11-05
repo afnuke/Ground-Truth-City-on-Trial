@@ -27,16 +27,23 @@ The app presents the record. It does not render a verdict — that's the jury's 
 
 ## Status
 
-**In development — coming soon.**
+**In the courtroom — building now.**
 
-- **Case 001 — the City of Greenville, SC** — is built and running, from its audited book for the fiscal year ended June 30, 2025.
+- **Cases 001–010 are built** — Greenville through Anderson — each from its city's own audited book, every figure verified before it ships.
+- The remaining South Carolina cases are in the final state build (November 5, 2026).
 - Greenville does not publish its payroll, so Exhibit D stands empty for now. A records request for it was filed under S.C. Code §30-4-40(a)(6) on **November 4, 2026**. When the city produces the record, the exhibit fills — from the record itself.
 
 ## The South Carolina docket
 
-Greenville is the first case, not the only one. All **41 South Carolina municipalities over 10,000 people** have been scoped for the docket. On November 4, 2026, records requests were filed with every city on the docket that doesn't publish its payroll and accepts requests by email — **22 requests outstanding**, with determinations due **November 18–19, 2026**. More cases open as each city's book is verified figure by figure, the same standard Case 001 was held to.
+Greenville is the first case, not the only one. All **41 South Carolina municipalities over 10,000 people** have been scoped for the docket. On November 4, 2026, records requests were filed with the cities on the docket that don't publish their payroll — **37 requests live**, with determinations due **November 18–19, 2026**. More cases open as each city's book is verified figure by figure, the same standard Case 001 was held to.
 
 **[The records requests — the record](FOIA-RECORD.md)** — how the 41 cities were asked, what Anderson alone requires, and where the finding was sent.
+
+## The Southeast
+
+North Carolina, Georgia, and Florida are already researched — **355 cities scoped**, their audits hunted and read. Building them waits on funding: about **$50, total**.
+
+**[The Southeast — where it stands](SOUTHEAST.md)** — South Carolina's standing, the four holdout cities, the 355, and how sponsorship works.
 
 ## The series
 
