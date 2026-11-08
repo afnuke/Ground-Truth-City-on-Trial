@@ -27,10 +27,10 @@ The app presents the record. It does not render a verdict — that's the jury's 
 
 ## Status
 
-**In the courtroom — building now.**
+**In the courtroom — South Carolina complete.**
 
-- **Cases 001–010 are built** — Greenville through Anderson — each from its city's own audited book, every figure verified before it ships.
-- The remaining South Carolina cases are in the final state build (November 5, 2026).
+- **All 37 South Carolina cases are built** — Cases 001–037, Greenville through Forest Acres — each from its city's own audited book, every figure verified before it ships (the final batch alone: 2,709 figures, audited — none missing, none invented).
+- The complete South Carolina docket ships in **v1.3** (built November 8, 2026). Public release: **December 20, 2026**.
 - Greenville does not publish its payroll, so Exhibit D stands empty for now. A records request for it was filed under S.C. Code §30-4-40(a)(6) on **November 4, 2026**. When the city produces the record, the exhibit fills — from the record itself.
 
 ## The South Carolina docket
@@ -38,6 +38,8 @@ The app presents the record. It does not render a verdict — that's the jury's 
 Greenville is the first case, not the only one. All **41 South Carolina municipalities over 10,000 people** have been scoped for the docket. On November 4, 2026, records requests were filed with the cities on the docket that don't publish their payroll — **37 requests live**, with determinations due **November 18–19, 2026**. More cases open as each city's book is verified figure by figure, the same standard Case 001 was held to.
 
 **[The records requests — the record](FOIA-RECORD.md)** — how the 41 cities were asked, what Anderson alone requires, and where the finding was sent.
+
+**[The journey — how this was built](JOURNEY.md)** — from the first Greenville case to the build that had to go around the gate.
 
 ## The Southeast
 

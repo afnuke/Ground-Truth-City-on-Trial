@@ -1,6 +1,6 @@
 # The Southeast — Where It Stands
 
-**South Carolina: 41 cities scoped, 37 cases built.** Every South Carolina city on the docket whose audited books are published is in the app — ten cases live in the current build, and the rest are in the final South Carolina build now in assembly (November 5, 2026). Every figure in every case is traced to the city's own audited financial report and verified figure by figure before it ships.
+**South Carolina: 41 cities scoped, 37 cases built — FINISHED.** Every South Carolina city on the docket whose audited books are published is in the app — all 37 cases built and shipping together in v1.3 (built November 8, 2026; public release December 20, 2026). Every figure in every case is traced to the city's own audited financial report and verified figure by figure before it ships.
 
 Four cities are waiting on the cities themselves:
 
