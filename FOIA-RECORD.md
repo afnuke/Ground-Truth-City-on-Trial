@@ -12,4 +12,14 @@ That finding is part of this project's record, and it is documented in Anderson'
 
 A resident who wants a record the law makes public should be able to ask for it. Where a city publishes no way to ask electronically, we note it — the same way we note every figure in every case: from the record, with the source, and without a verdict.
 
+## Interim replies — as of November 8, 2026
+
+Determinations are not due until November 18–19, but several cities have already answered in part. Recorded here as received:
+
+- **North Myrtle Beach** — the only city so far to quote a fee: **$27.89** (JustFOIA FOIA-2026-579, invoiced November 6, 2026). The record is held pending payment of that fee.
+- **Hilton Head Island** (PIR-442-2026) — asked whether the requester files as an individual or an organization; answered November 7: an individual, with the request restated.
+- **North Augusta** (2026-139) — acknowledged the request with an attachment and asked for confirmation of receipt.
+- **Port Royal** — replied that the request must be submitted on the town's own FOIA form.
+- **Lexington** — directed the request to the town's public-records portal (November 5, 2026).
+
 *Determinations on the 37 requests are due under S.C. Code §30-4-30(C) by November 18–19, 2026. Each city's response — including any fee quoted to produce the record — will be recorded in its case file as it is received.*
